@@ -1,0 +1,11 @@
+[gcp]
+project_id = "consulting-data-studio"
+region = "southamerica-west1"
+
+[cloud_run]
+service_name = "ccu-monitoreo-activos"
+secret_name = "ccu-monitoreo-activos-secrets"
+repo_name = "ccu-monitoreo-activos"
+
+[streamlit]
+secrets_file = ".streamlit/secrets.toml"

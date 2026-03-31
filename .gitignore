@@ -1,0 +1,13 @@
+.streamlit/secrets.toml
+mynotes/
+z_archive/
+data_scripts/inputs/
+data_scripts/outputs/
+prompts/
+src/__pycache__/
+seeds/gsheets_snapshots/*
+models/staging/__pycache__
+models/intermediate/__pycache__
+models/marts/__pycache__
+config/keys/*
+seeds/outputs/*
